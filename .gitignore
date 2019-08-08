@@ -1,0 +1,15 @@
+.idea/*
+.idea
+__pycache__/*
+__pycache__
+migrations/*
+migrations
+*.pyc
+*.retry
+media/*
+media
+*.log
+celerybeat-schedule
+celerybeat.pid
+*.crt
+*.key
